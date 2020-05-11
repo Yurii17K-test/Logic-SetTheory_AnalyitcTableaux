@@ -2,7 +2,7 @@ listoflists = [[], []]
 print(listoflists)
 
 
-
+#testing how git really works
 
 def partision(us_input, input_index, lists_index):
 
