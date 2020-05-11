@@ -6,7 +6,7 @@ print(listoflists)
 
 def partision(us_input, input_index, lists_index):
 
-#ohoj fy tdyd tku td
+#ohoj fy tdyd tku td555
 
 
 partision(input(), 0, 0)
